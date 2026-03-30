@@ -378,7 +378,7 @@ The answer turns out to be consistent across all three methods. And it is not wh
 </svg>
 </td>
 <td style="padding:2px 0 18px 10px">
-<code>hw5_review_dashboard.html</code> &nbsp;·&nbsp; <a href="https://sanamjummani.github.io/What-Customers-Say.html" style="color:#C9A84C;font-size:13px">Live →</a><br/>
+<code>index.html</code> &nbsp;·&nbsp; <a href="https://sanamjummani.github.io/What-Customers-Say" style="color:#C9A84C;font-size:13px">Live →</a><br/>
 <span style="color:#8A94A6;font-size:13px">Interactive dashboard with five live features: phrase cloud by rating, rating distributions, topic fingerprint radar, correlation heatmap with plain-English tooltips, and the 95.9% joint probability calculator. No setup required.</span>
 </td>
 </tr>
